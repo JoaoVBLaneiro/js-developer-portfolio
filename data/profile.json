@@ -37,31 +37,36 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criando uma Pokedex em JS",
+      "url": "https://github.com/JoaoVBLaneiro/js-developer-pokedex",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Coordenador / Abrindo Portas",
+      "period": "Jul 2024 - Current",
+      "description": "Agora como Coordenador do Projeto que tanto amo, busco honrar o legado daqueles que vieram antes de mim e diminuir as desigualdades no mundo levando um ensino de qualidade da língua inglesa de forma gratuita àqueles que precisam."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Representante / Abrindo Portas",
+      "period": "Jan 2024 - Jul 2024",
+      "description": "Continuando como Instrutor, mas agora com a responsabilidade de liderar o setor e a equipe de 10 Instrutores do Projeto. Foi uma incrível experiência trabalhar com tantas pessoas talentosas e competentes."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Núcleo de Ensino / Overload",
+      "period": "Sep 2023 - Sep 2024",
+      "description": "Foi uma honra fazer parte da Equipe Overload como membro em seu núcleo de Ensino, compartilhando meu conhecimento de Robótica com jovens do Espaço Jovem Evolução e com os alunos da UTFPR-CP."
+    },
+    {
+      "name": "Instrutor / Abrindo Portas",
+      "period": "Mar 2023 - Jul 2024",
+      "description": "Com o objetivo de compartilhar o conhecimento previamente dado a mim, resolvi ser Instrutor voluntário neste projeto de ensino de Inglês gratuito."
+    },
+    {
+      "name": "Junior Developer / Pedi Tudo Cornélio",
+      "period": "Mar 2023 - Current",
+      "description": "Minha primeira experiência como programador em algo além de um projeto pessoal. Foi uma honra ajudar a desenvolver um aplicativo de transporte para ajudar a comunidade de Cornélio Procópio."
     }
   ]
 }
