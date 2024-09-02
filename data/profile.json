@@ -46,27 +46,32 @@
     {
       "name": "Coordenador / Abrindo Portas",
       "period": "Jul 2024 - Current",
-      "description": "Agora como Coordenador do Projeto que tanto amo, busco honrar o legado daqueles que vieram antes de mim e diminuir as desigualdades no mundo levando um ensino de qualidade da língua inglesa de forma gratuita àqueles que precisam."
+      "description": "Agora como Coordenador do Projeto que tanto amo, busco honrar o legado daqueles que vieram antes de mim e diminuir as desigualdades no mundo levando um ensino de qualidade da língua inglesa de forma gratuita àqueles que precisam.",
+      "abrindoPortas": true
     },
     {
       "name": "Representante / Abrindo Portas",
       "period": "Jan 2024 - Jul 2024",
-      "description": "Continuando como Instrutor, mas agora com a responsabilidade de liderar o setor e a equipe de 10 Instrutores do Projeto. Foi uma incrível experiência trabalhar com tantas pessoas talentosas e competentes."
+      "description": "Continuando como Instrutor, mas agora com a responsabilidade de liderar o setor e a equipe de 10 Instrutores do Projeto. Foi uma incrível experiência trabalhar com tantas pessoas talentosas e competentes.",
+      "abrindoPortas": true
     },
     {
       "name": "Núcleo de Ensino / Overload",
       "period": "Sep 2023 - Sep 2024",
-      "description": "Foi uma honra fazer parte da Equipe Overload como membro em seu núcleo de Ensino, compartilhando meu conhecimento de Robótica com jovens do Espaço Jovem Evolução e com os alunos da UTFPR-CP."
+      "description": "Foi uma honra fazer parte da Equipe Overload como membro em seu núcleo de Ensino, compartilhando meu conhecimento de Robótica com jovens do Espaço Jovem Evolução e com os alunos da UTFPR-CP.",
+      "overload": true
     },
     {
       "name": "Instrutor / Abrindo Portas",
       "period": "Mar 2023 - Jul 2024",
-      "description": "Com o objetivo de compartilhar o conhecimento previamente dado a mim, resolvi ser Instrutor voluntário neste projeto de ensino de Inglês gratuito."
+      "description": "Com o objetivo de compartilhar o conhecimento previamente dado a mim, resolvi ser Instrutor voluntário neste projeto de ensino de Inglês gratuito.",
+      "abrindoPortas": true
     },
     {
       "name": "Junior Developer / Pedi Tudo Cornélio",
       "period": "Mar 2023 - Current",
-      "description": "Minha primeira experiência como programador em algo além de um projeto pessoal. Foi uma honra ajudar a desenvolver um aplicativo de transporte para ajudar a comunidade de Cornélio Procópio."
+      "description": "Minha primeira experiência como programador em algo além de um projeto pessoal. Foi uma honra ajudar a desenvolver um aplicativo de transporte para ajudar a comunidade de Cornélio Procópio.",
+      "pediTudo": true
     }
   ]
 }
