@@ -22,6 +22,10 @@
       {
         "name": "NodeJS",
         "logo": "https://raw.githubusercontent.com/JoaoVBLaneiro/js-developer-portfolio/main/data/tools/nodejs.svg"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/JoaoVBLaneiro/js-developer-portfolio/main/data/tools/react.svg"
       }
     ],
     "softSkills": [
